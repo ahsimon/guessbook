@@ -1,9 +1,0 @@
----
- 
-server:
-  ingress:
-    enabled: true
-    hosts:
-      - argocd.local
-  extraArgs:
-  - --insecure
